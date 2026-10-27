@@ -1,0 +1,7 @@
+Ace of Speeds — Race Control v1.0.1
+
+Carica tutti i file della presente cartella direttamente nella root di un repository GitHub pubblico.
+Non caricare il file ZIP direttamente: decomprimilo e carica i file.
+GitHub repository > Settings > Pages > Deploy from a branch > main > /(root) > Save.
+Link risultante: https://TUO-UTENTE.github.io/ace-of-speeds-race-control/
+Apri il sito almeno una volta con la connessione attiva per predisporre la cache offline.
